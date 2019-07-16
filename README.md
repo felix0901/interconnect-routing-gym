@@ -24,3 +24,8 @@ hg clone /nethome/tkrishna3/teaching/simulators/gem5/repo/gem5
 - ``hg status`` shows what files have been modified in your repository
 
 - ``hg diff`` shows a diff of the modified files.
+
+```"python"
+import inconnect_routing_gym as ir-gym
+
+```

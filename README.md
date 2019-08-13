@@ -1,6 +1,6 @@
 # inconnect-routing-gym
 
-- work in progress - will release in Sep.
+- work in progress - will release in Oct.
 
 openai-gym style RL benchmark for interconnection network congestion control study
 

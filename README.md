@@ -1,7 +1,7 @@
 # inconnect-routing-gym
 openai-gym style RL benchmark for interconnection network congestion control study
 
-<img src="https://github.com/huckiyang/inconnect-routing-gym/blob/master/ok.png" width="400">
+<img src="https://github.com/huckiyang/inconnect-routing-gym/blob/master/ok_1.png" width="400">
 
 ### Environment Setup
 

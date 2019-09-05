@@ -4,6 +4,10 @@
 
 openai-gym style RL benchmark for interconnection network congestion control study
 
+[CompArch - gem5/garnet tutorial](http://tusharkrishna.ece.gatech.edu/teaching/garnet_gt/)
+
+[Running garnet](http://pwp.gatech.edu/ece-tushar/wp-content/uploads/sites/175/2019/01/Lab1.pdf)
+
 <img src="https://github.com/huckiyang/inconnect-routing-gym/blob/master/ok_1.png" width="400">
 
 ### Environment Setup

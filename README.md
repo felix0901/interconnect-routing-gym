@@ -33,6 +33,6 @@ hg clone /nethome/tkrishna3/teaching/simulators/gem5/repo/gem5
 - ``hg diff`` shows a diff of the modified files.
 
 ```"python"
-import icn_routing_gym as ir-gym
+from icn_gym import icn_routing_gym as ir-gym
 
 ```

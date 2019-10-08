@@ -1,5 +1,7 @@
 # inconnect-routing-gym
 
+Oct, NoCS 2019
+
 - work in progress - code will release in the Sep. [Arxiv](https://arxiv.org/abs/1908.04484)
 
 openai-gym style RL benchmark for interconnection network congestion control study

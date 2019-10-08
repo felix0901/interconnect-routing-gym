@@ -1,6 +1,6 @@
 # inconnect-routing-gym
 
-Oct, NoCS 2019
+ACM/IEEE NoCS, Oct. 2019
 
 - work in progress - code will release in the Sep. [Arxiv](https://arxiv.org/abs/1908.04484)
 

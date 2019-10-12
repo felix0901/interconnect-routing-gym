@@ -7,7 +7,7 @@ import matplotlib
 matplotlib.use('agg')
 import matplotlib.pyplot as plt
 import csv
-from icn_gym import *
+from src.icn_gym import *
 
 ## Global Parameters
 actions = ["xy", "random_oblivious", "turn_model_oblivious", "turn_model_adaptive"]

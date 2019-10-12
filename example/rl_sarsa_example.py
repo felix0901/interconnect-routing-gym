@@ -11,9 +11,8 @@ import matplotlib
 matplotlib.use('agg')
 import matplotlib.pyplot as plt
 import csv
-from icn_gym import *
-# import time as ti
-# import pandas as pd
+from src.icn_gym import *
+
 
 
 

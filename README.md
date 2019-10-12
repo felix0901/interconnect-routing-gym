@@ -53,5 +53,5 @@ example/rl_expected_sarsa_example.py
 ```
 ### Example of NoC statistics from Garnet2.0 in gem5
 ```
-network_stat.txt
+network_stats.txt
 ```

@@ -34,7 +34,24 @@ hg clone /nethome/tkrishna3/teaching/simulators/gem5/repo/gem5
 
 - ``hg diff`` shows a diff of the modified files.
 
+### How to use it
+Import the module in the src directry
+* It provides integration with Garnet2.0 in gem5 with the custom-defined RL-alagirithm 
 ```"python"
 from icn_gym import icn_routing_gym as ir-gym
-
+```
+### Example
+We provide examples of baseline (xy routing)
+```
+example/Baseline_xyRouting_example.py
+```
+We provides the example of three RL-alagorithms we present in the paper
+```
+example/rl_QLearning_example.py
+example/rl_sarsa_example.py
+example/rl_expected_sarsa_example.py
+```
+### Example of NoC statistics from Garnet2.0 in gem5
+```
+network_stat.txt
 ```

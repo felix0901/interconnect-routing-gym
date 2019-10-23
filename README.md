@@ -25,6 +25,8 @@ $sudo apt-get install m4
 
 ### Downloading gem5
 
+Official gem5 from [google git](https://gem5.googlesource.com/)
+
 ```
 hg clone /nethome/tkrishna3/teaching/simulators/gem5/repo/gem5
 ```

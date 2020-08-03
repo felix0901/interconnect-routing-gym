@@ -27,7 +27,7 @@ def reward_f(d):
 	latency = float(d["average_packet_latency"][-1])
 	return -round(latency,2) # minimize latency
 
-def icn_routing_gym(injrate, action): # injrate = state
+def ICN_env(injrate, action): # injrate = state
 	os_command = "./build/Garnet_standalone/gem5.opt configs/example/garnet_synth_traffic.py --network=garnet2.0 --num-cpus=64 --num-dirs=64 --topology=Mesh --mesh-rows=8 --sim-cycles=20000 --inj-vnet=0 --injectionrate={:f} --synthetic=shuffle --routing-algorithm={}".format(injrate, action)
 	os.system(os_command)
 	os_command2 = "./my_scripts/extract_network_stats.sh"

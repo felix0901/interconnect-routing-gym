@@ -39,7 +39,7 @@ hg clone /nethome/tkrishna3/teaching/simulators/gem5/repo/gem5
 Import the module in the src directry
 * It provides integration with Garnet2.0 in gem5 with the custom-defined RL-alagirithm 
 ```"python"
-from icn_gym import icn_routing_gym as ir-gym
+from icn_gym import ICN_env as ir_gym
 ```
 ### Example
 We provide examples of baseline (xy routing)

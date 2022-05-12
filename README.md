@@ -56,3 +56,7 @@ example/rl_expected_sarsa_example.py
 ```
 network_stats.txt
 ```
+
+### Network Data Simulation
+
+Please look at [here](https://github.com/felix0901/interconnect-routing-gym/issues/1) for the data synthesis. 
